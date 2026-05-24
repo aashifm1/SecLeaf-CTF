@@ -1,0 +1,16 @@
+
+give string is hex --> base64 --> rot 13
+
+used cyberchef
+
+hex:
+526e4a7757584a756333737759544e66655452734d325666616a526d5957
+64664d3245776148523166513d3d0a
+
+base64:
+RnJwWXJuc3swYTNfeTRsM2VfajRmYWdfM2EwaHR1fQ==
+
+rot13:
+FrpYrns{0a3_y4l3e_j4fag_3a0htu}
+
+SecLeaf{flag}

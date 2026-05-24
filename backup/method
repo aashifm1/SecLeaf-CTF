@@ -1,0 +1,10 @@
+
+file given --> backup.zip
+
+i used strings to find backup.zip
+
+
+-$ strings backup.zip
+flag.txtUT
+SecLeaf{flag}
+flag.txtUT
