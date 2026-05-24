@@ -1,0 +1,7 @@
+
+it is just a string encoded in base64.
+
+-$ cat encrypted.txt | base64 -d
+SecLeaf{flag}
+
+
