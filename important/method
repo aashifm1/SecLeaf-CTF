@@ -1,0 +1,11 @@
+
+given a image --> Important.jpg
+
+-$ file Important.jpg
+Zip archieve
+
+-$ unzip !*
+extracted flag.txt
+
+boom found
+

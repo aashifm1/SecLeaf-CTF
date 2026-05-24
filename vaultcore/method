@@ -1,0 +1,7 @@
+
+given a file --> vaultcore
+
+i used strings to find the flag
+
+-$ strings vaultcore
+at the end flag found SecLeaf{flag}
