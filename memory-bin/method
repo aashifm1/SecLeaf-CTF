@@ -1,0 +1,11 @@
+
+hint: it is all about hashes
+
+tried md5 hash function
+
+-$ md5sum file
+hash
+
+SecLeaf{hash}
+
+
